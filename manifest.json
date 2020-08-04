@@ -1,0 +1,42 @@
+{
+	"short_name": 		"helloJSApps",
+	"name": 			"helloJSApps",
+	"background_color": "#000000",
+	"theme_color":		"#000000",
+	"display": 			"standalone",
+	"orientation": 		"portrait",
+	"start_url": 		"/",
+	"icons": [
+		{
+			"src": "favicon.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		},
+		{
+			"src": "res/mipmap-xxxhdpi/icon.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "res/mipmap-xxhdpi/icon.png",
+			"type": "image/png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "res/mipmap-xhdpi/icon.png",
+			"type": "image/png",
+			"sizes": "96x96"
+		},
+        {
+			"src": "res/mipmap-hdpi/icon.png",
+			"type": "image/png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "res/mipmap-mdpi/icon.png",
+			"type": "image/png",
+			"sizes": "48x48"
+		}
+	],
+	"gcm_sender_id": "103953800507"
+}
