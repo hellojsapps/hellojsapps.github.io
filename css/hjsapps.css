@@ -1,0 +1,5 @@
+body {font-family:"Open Sans";text-align:center; margin:0 auto;color:rgba(0,0,0,0.87); font-size:15px; font-weight:500;}
+#app {margin:0 auto;}
+@media screen and (max-width: 430px){#app {width: 100%;}}
+@media screen and (min-width: 431px){#app {width: 430px;}}
+.text17 {color:rgba(0,0,0,0.87); font-size:15px; font-weight:500;}
